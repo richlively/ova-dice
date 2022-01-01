@@ -3,6 +3,13 @@
   "description": "Dice rolls with summation like in game systems like OVA",
   "minimumCoreVersion": "9.238",
   "title": "OVA Dice",
-  "version":"0.0.1",
-  "author": "richlively"
+  "version": "0.0.1",
+  "author": "richlively",
+  "compatibleCoreVersion": "9.238",
+  "url": "https://github.com/richlively/ova-dice",
+  "license": "https://raw.githubusercontent.com/richlively/ova-dice/main/LICENSE",
+  "readme": "https://raw.githubusercontent.com/richlively/ova-dice/main/README.md",
+  "manifest": "https://github.com/richlively/ova-dice/releases/latest/download/module.json",
+  "download": "https://github.com/richlively/ova-dice/releases/latest/download/module.zip",
+  "bugs": "https://github.com/richlively/ova-dice/issues"
 }
