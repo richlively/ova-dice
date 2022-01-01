@@ -1,0 +1,8 @@
+{
+  "name": "ova-dice",
+  "description": "Dice rolls with summation like in game systems like OVA",
+  "minimumCoreVersion": "9.238",
+  "title": "OVA Dice",
+  "version":"0.0.1",
+  "author": "richlively"
+}
